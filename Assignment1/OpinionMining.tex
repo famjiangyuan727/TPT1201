@@ -1,28 +1,29 @@
 \documentclass[a4paper,12pt]{article}
-\usepackage[top=2cm, bottom=1.5cm, left=1cm, right=1cm]{geometry}
+\usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
 \usepackage{apacite}
 \usepackage{amsmath}
 \usepackage{graphicx}
-\graphicspath{ {C:/Users/asus/Desktop/Latex} }
+\usepackage{array}
+\graphicspath{{C:/Users/asus/Desktop/Latex}}
 
 \begin{document}
 \bibliographystyle{apacite}
 
-\title{\textbf{{\large Fam Jiang Yuan, 1121116369}\vspace{5mm}\\Twitter as a Corpus for Sentiment Analysis and Opinion Mining}}
+\title{\textbf{{\large Fam Jiang Yuan 1121116369}\vspace{5mm}\\Twitter as a Corpus for Sentiment Analysis and Opinion Mining}}
 \author{\textbf{Alexander Pak, Patrick Paroubak}\vspace{5mm} \\Universit´e de Paris-Sud, Laboratoire LIMSI-CNRS, Bˆatiment 508,\\
 F-91405 Orsay Cedex, France\\
 alexpak@limsi.fr, pap@limsi.fr}
 \date{}
 \maketitle
 
-\abstract{Microblogging nowadays became a most common communication tools for all Internet users. There are millions of users share their thoughts or opinions on different aspects of their daily life. Meanwhile, millions of corpus or even more, appear every day in popular social websites. Thus, microblogging websites are the idea platforms for opinion mining and sentiment analysis. In our research, we concentrate on one of the most popular microblogging website, Twitter, in order to perform sentiment analysis.  After that, we show how to collect a corpus from Twitter automatically and use it to train a sentiment classifier, which able to determine positive, negative, or neutral sentiment of a corpus. Throughout our experimental evaluations, we found that our methods are efficient and performs better than the previous existing methods. Besides that, we only worked on English, however, our proposed method can adapt on any language.}
+\abstract{Microblogging nowadays became a most common communication tools for all Internet users. There are millions of users share their thoughts or opinions on different aspects of their daily life. Meanwhile, millions of corpus or even more, appear every day in popular social websites. Thus, microblogging websites are the idea platforms for data mining and sentiment analysis. In this research, we will concentrate on one of the most popular microblogging website, Twitter, in order to perform sentiment analysis.  After that, we show how to collect a corpus from Twitter automatically and use it to train a sentiment classifier, which able to determine positive, negative, or neutral sentiment of a corpus. Throughout our experimental evaluations, we found that our methods are efficient and performs better than the previous existing methods. Besides that, we only worked on English, however, our proposed method can adapt on any language.}
 
 \section*{\textbf{Problem Solved}}
 In order to collect those corpus, we used a Twitter API to collect those valued information and then perform sentiment analysis by building a sentiment classifier, which able to determine positive, negative, or neutral sentiment for the collected corpus automatically.
 
 \section*{\textbf{Claimed Contribution}}
 First and foremost, we collect a corpus with positive and negative sentiment, and a corpus of objective texts by using our method that doesn't required human effort for classifying the collected corpus.
-Next, we performed a statistical linguistic analysis of the collected corpus and used the collected corpus to train a sentiment classifier for microblogging.
+Next, we performed a statistical linguistic analysis of the collected corpus and used the corpus to train a sentiment classifier for microblogging.
 Finally, we carried out an empirical evaluations by implementing the sentiment classifier on the real microblogging posts to prove that our methods are efficient and performs better than previous existing methods.
 
 \section*{\textbf{Related Work}}
@@ -47,7 +48,7 @@ Total & 216\\
 \end{tabular}
 \linebreak
 \linebreak 
-\textbf{Table 1}: The Characteristics of the evaluation dataset.
+\textbf{Table 1}: The Patterns of the evaluation dataset.
 \end{center}
 
 \begin{flushleft}
@@ -55,7 +56,7 @@ We evaluate the accuracy \cite{manning1999foundations} of our classifier using:
 \end{flushleft}
 
 \begin{equation}
-accuracy = \frac{N(correct\:classifications)}{N(all\:classifications)}
+accuracy\:of\:classifier= \frac{N(correct\:classifications)}{N(all\:classifications)}
 \end{equation}
 
 \begin{flushleft}
@@ -63,7 +64,7 @@ accuracy = \frac{N(correct\:classifications)}{N(all\:classifications)}
 \end{flushleft} 
 
 \begin{equation}
-decision = \frac{N(retrieved\:documents)}{N(all\:documents)}
+classifier\:decision = \frac{N(retrieved\:documents)}{N(all\:documents)}
 \end{equation}
 \linebreak
 \linebreak
@@ -73,25 +74,42 @@ The testing results are recorded and presented in graph.
 \includegraphics[scale=0.5]{graph.eps}
 \linebreak
 \linebreak
-\textbf{Figure 1}: The comparision of the classification accuracy when using unigrams, bigrams, and trigrams.
+\textbf{Figure 1}: The comparision of the classification accuracy when using three of the n-grams.
 \end{center}
 
 \begin{center}
 \includegraphics[scale=0.5]{graphs.eps}
 \linebreak
 \linebreak
-\textbf{Figure 2}: The impact of using the attachment of negation words.
+\textbf{Figure 2}: The impact when negation words were attached.
 \end{center}
 
-Throughout our testing results, we found that the best performance is obtained when using bigrams, as bigrams provide a balanced coverage (unigrams) and good ability to capture the sentiment expression patterns (trigrams).
+Throughout our testing results, we found that the best performance is obtained when using bigrams, as bigrams provide a balanced coverage (unigrams) and good capability to capture the expression patterns of sentiment corpus (trigrams).
 
 \section*{\textbf{Conclusion}}
-Microblogging nowadays became a most common communication tools for all Internet users. Microblogging websites is a platform where millions of corpus or even more, appear every day in popular social websites. Thus, microblogging websites are the idea platforms for opinion mining and sentiment analysis. In our research, we showed a method that can collect a corpus automatically and to be used to train a sentiment classifier. Next, we used Tree Tagger for POS-tag and observed the distribution among positive, negative, and neutral set. We trained a sentiment classifier known as Naïve Bayes that uses n-grams and POS-tags as features. Our trained classifier is capable to classify positive, negative, and neutral of document. 
+Microblogging nowadays became a most common communication tools for all Internet users. Microblogging websites is a platform where millions of corpus or even more, appear every day in popular social websites. Thus, microblogging websites are the idea platforms for data mining and sentiment analysis. In this carried out research, we showed a method that can collect a corpus automatically and to be used to train a sentiment classifier. Next, we used Tree Tagger for POS-tag and observed the distribution among positive, negative, and neutral set. We trained a sentiment classifier known as Naïve Bayes that uses n-grams and POS-tags as features. Our trained classifier is capable to classify positive, negative, and neutral of document. 
 
-\section*{Future Extension}
+\section*{\textbf{Future Extension}}
 Throughout this research, I have learned some basic knowledge about data mining, and training a learning machine, in order to make the machine to make decision. However, the presented methodology in this research were limited in one language. So, as the future extension, the authors may plan to collect a multi-language corpus from microblogging websites and compare the collected corpora across with difference language to build a multi-language sentiment classifier.
 
 \bibliography{mybib}
 \bibliographystyle{plain}
+
+\pagebreak
+\begin{center}
+\begin{tabular}{|m{5cm} | m{10cm} |}
+\hline
+Paper Title & Twitter as a Corpus for Sentiment Analysis and Opinion Mining\\ \hline
+Author(s) & Alexander Pak, Patrick Paroubek\\ \hline
+Abstract/Summary & \\ \hline 
+Problem Solved & \\ \hline
+Claimed Contributions & \\ \hline
+Related work & \\ \hline
+Methodology & \\ \hline
+Conclusions & \\ \hline
+Future Extension & \\ \hline
+References & \\ \hline 
+\end{tabular}
+\end{center}
 
 \end{document}

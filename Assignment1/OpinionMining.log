@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2015.8.14)  14 AUG 2015 17:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2015.8.14)  14 AUG 2015 22:43
 entering extended mode
 **OpinionMining.tex
 (C:\Users\asus\Desktop\Latex\OpinionMining.tex
@@ -149,19 +149,27 @@ File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 \Gin@req@height=\dimen120
 \Gin@req@width=\dimen121
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen122
+\extrarowheight=\dimen123
+\NC@list=\toks21
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
 (C:\Users\asus\Desktop\Latex\OpinionMining.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -171,15 +179,15 @@ LaTeX Font Info:    ... okay on input line 8.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(56.9055pt, 745.46222pt, 42.67912pt)
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=540.60239pt
-* \textheight=745.46222pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
-* \topmargin=-52.36449pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -222,30 +230,35 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--71
+Underfull \hbox (badness 10000) in paragraph at lines 68--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--71
+Underfull \hbox (badness 10000) in paragraph at lines 68--72
 
  []
 
+[2]
 File: graph.eps Graphic file (type eps)
-<graph.eps> [2]
+ <graph.eps>
 File: graphs.eps Graphic file (type eps)
  <graphs.eps>
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¯ in font cmr10!
- (C:\Users\asus\Desktop\Latex\OpinionMining.bbl
-[3]) [4] (C:\Users\asus\Desktop\Latex\OpinionMining.aux) ) 
+ [3] (C:\Users\asus\Desktop\Latex\OpinionMining.bbl) [4]
+Overfull \hbox (57.77281pt too wide) in paragraph at lines 100--113
+ [] 
+ []
+
+[5] (C:\Users\asus\Desktop\Latex\OpinionMining.aux) ) 
 Here is how much of TeX's memory you used:
- 2128 strings out of 493922
- 27527 string characters out of 3144902
- 91788 words of memory out of 3000000
- 5428 multiletter control sequences out of 15000+200000
+ 2173 strings out of 493922
+ 28091 string characters out of 3144902
+ 92237 words of memory out of 3000000
+ 5470 multiletter control sequences out of 15000+200000
  10889 words of font info for 39 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,7n,20p,6882b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,9n,20p,6882b,213s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on OpinionMining.dvi (4 pages, 11872 bytes).
+Output written on OpinionMining.dvi (5 pages, 13304 bytes).
