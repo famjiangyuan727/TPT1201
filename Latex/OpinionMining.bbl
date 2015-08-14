@@ -1,0 +1,196 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Adda%
+, Mariani%
+, Lecomte%
+, Paroubek%
+\BCBL {}\ \BBA {} Rajman%
+}{%
+Adda%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1998}}%
+}]{%
+adda1998grace}
+\APACinsertmetastar {%
+adda1998grace}%
+\begin{APACrefauthors}%
+Adda, G.%
+, Mariani, J.%
+, Lecomte, J.%
+, Paroubek, P.%
+\BCBL {}\ \BBA {} Rajman, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The GRACE French part-ofspeech tagging evaluation task}
+  {The grace french part-ofspeech tagging evaluation task}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {in Proceedings of the First International Conference on
+  Language Resources and Evaluation (LREC.} {in proceedings of the first
+  international conference on language resources and evaluation (lrec.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Go%
+, Huang%
+\BCBL {}\ \BBA {} Bhayani%
+}{%
+Go%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+go2009twitter}
+\APACinsertmetastar {%
+go2009twitter}%
+\begin{APACrefauthors}%
+Go, A.%
+, Huang, L.%
+\BCBL {}\ \BBA {} Bhayani, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Twitter sentiment analysis} {Twitter sentiment
+  analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Entropy}{17}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Manning%
+\ \BBA {} Sch{\"u}tze%
+}{%
+Manning%
+\ \BBA {} Sch{\"u}tze%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+manning1999foundations}
+\APACinsertmetastar {%
+manning1999foundations}%
+\begin{APACrefauthors}%
+Manning, C\BPBI D.%
+\BCBT {}\ \BBA {} Sch{\"u}tze, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1999}.
+\newblock
+\APACrefbtitle {Foundations of statistical natural language processing}
+  {Foundations of statistical natural language processing}.
+\newblock
+\APACaddressPublisher{}{MIT press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pang%
+\ \BBA {} Lee%
+}{%
+Pang%
+\ \BBA {} Lee%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+pang2008opinion}
+\APACinsertmetastar {%
+pang2008opinion}%
+\begin{APACrefauthors}%
+Pang, B.%
+\BCBT {}\ \BBA {} Lee, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Opinion mining and sentiment analysis} {Opinion mining
+  and sentiment analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Foundations and trends in information
+  retrieval}{2}{1-2}{1--135}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Read%
+}{%
+Read%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+read2005using}
+\APACinsertmetastar {%
+read2005using}%
+\begin{APACrefauthors}%
+Read, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Using emoticons to reduce dependency in machine learning
+  techniques for sentiment classification} {Using emoticons to reduce
+  dependency in machine learning techniques for sentiment
+  classification}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the ACL student research workshop}
+  {Proceedings of the acl student research workshop}\ (\BPGS\ 43--48).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schmid%
+}{%
+Schmid%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+schmid1994probabilistic}
+\APACinsertmetastar {%
+schmid1994probabilistic}%
+\begin{APACrefauthors}%
+Schmid, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Probabilistic part-of-speech tagging using decision
+  trees} {Probabilistic part-of-speech tagging using decision trees}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the international conference on new
+  methods in language processing} {Proceedings of the international conference
+  on new methods in language processing}\ (\BVOL~12, \BPGS\ 44--49).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yang%
+, Lin%
+\BCBL {}\ \BBA {} Chen%
+}{%
+Yang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+yang2007emotion}
+\APACinsertmetastar {%
+yang2007emotion}%
+\begin{APACrefauthors}%
+Yang, C.%
+, Lin, K\BPBI H\BHBI Y.%
+\BCBL {}\ \BBA {} Chen, H\BHBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Emotion classification using web blog corpora} {Emotion
+  classification using web blog corpora}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Web Intelligence, IEEE/WIC/ACM International Conference
+  on} {Web intelligence, ieee/wic/acm international conference on}\ (\BPGS\
+  275--278).
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
