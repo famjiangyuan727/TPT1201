@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.18)  18 SEP 2015 16:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.18)  18 SEP 2015 16:59
 entering extended mode
 **"Multilingual Sentiment Analysis.tex"
 ("Multilingual Sentiment Analysis.tex"
@@ -225,7 +225,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--68
 
  []
 
-<Assignment2.png, id=12, 711.4078pt x 246.1697pt>
+<Assignment2.png, id=13, 711.4078pt x 246.1697pt>
 File: Assignment2.png Graphic file (type png)
  <use Assignment2.png>
 Package pdftex.def Info: Assignment2.png used on input line 70.
@@ -270,13 +270,14 @@ Here is how much of TeX's memory you used:
 /fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmti10.pfb>
-Output written on "Multilingual Sentiment Analysis.pdf" (5 pages, 119181 bytes)
+type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb>
+Output written on "Multilingual Sentiment Analysis.pdf" (5 pages, 129252 bytes)
 .
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
