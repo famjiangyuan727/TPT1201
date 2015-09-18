@@ -1,0 +1,172 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Almas%
+\ \BBA {} Ahmad%
+}{%
+Almas%
+\ \BBA {} Ahmad%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+almas2007note}
+\APACinsertmetastar {%
+almas2007note}%
+\begin{APACrefauthors}%
+Almas, Y.%
+\BCBT {}\ \BBA {} Ahmad, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A note on extracting ‘sentiments’ in financial news
+  in English, Arabic \& Urdu} {A note on extracting ‘sentiments’ in
+  financial news in english, arabic \& urdu}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {The Second Workshop on Computational Approaches to
+  Arabic Script-based Languages} {The second workshop on computational
+  approaches to arabic script-based languages}\ (\BPGS\ 1--12).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chaumartin%
+}{%
+Chaumartin%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+chaumartin2007upar7}
+\APACinsertmetastar {%
+chaumartin2007upar7}%
+\begin{APACrefauthors}%
+Chaumartin, F\BHBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {UPAR7: A knowledge-based system for headline sentiment
+  tagging} {Upar7: A knowledge-based system for headline sentiment
+  tagging}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 4th International Workshop on
+  Semantic Evaluations} {Proceedings of the 4th international workshop on
+  semantic evaluations}\ (\BPGS\ 422--425).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Devitt%
+\ \BBA {} Ahmad%
+}{%
+Devitt%
+\ \BBA {} Ahmad%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+devitt2007sentiment}
+\APACinsertmetastar {%
+devitt2007sentiment}%
+\begin{APACrefauthors}%
+Devitt, A.%
+\BCBT {}\ \BBA {} Ahmad, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sentiment polarity identification in financial news: A
+  cohesion-based approach} {Sentiment polarity identification in financial
+  news: A cohesion-based approach}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Esuli%
+\ \BBA {} Sebastiani%
+}{%
+Esuli%
+\ \BBA {} Sebastiani%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+esuli2006sentiwordnet}
+\APACinsertmetastar {%
+esuli2006sentiwordnet}%
+\begin{APACrefauthors}%
+Esuli, A.%
+\BCBT {}\ \BBA {} Sebastiani, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sentiwordnet: A publicly available lexical resource for
+  opinion mining} {Sentiwordnet: A publicly available lexical resource for
+  opinion mining}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of LREC} {Proceedings of lrec}\ (\BVOL~6,
+  \BPGS\ 417--422).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mihalcea%
+, Banea%
+\BCBL {}\ \BBA {} Wiebe%
+}{%
+Mihalcea%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+mihalcea2007learning}
+\APACinsertmetastar {%
+mihalcea2007learning}%
+\begin{APACrefauthors}%
+Mihalcea, R.%
+, Banea, C.%
+\BCBL {}\ \BBA {} Wiebe, J\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning multilingual subjective language via
+  cross-lingual projections} {Learning multilingual subjective language via
+  cross-lingual projections}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wilson%
+, Wiebe%
+\BCBL {}\ \BBA {} Hoffmann%
+}{%
+Wilson%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+wilson2005recognizing}
+\APACinsertmetastar {%
+wilson2005recognizing}%
+\begin{APACrefauthors}%
+Wilson, T.%
+, Wiebe, J.%
+\BCBL {}\ \BBA {} Hoffmann, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Recognizing contextual polarity in phrase-level
+  sentiment analysis} {Recognizing contextual polarity in phrase-level
+  sentiment analysis}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the conference on human language
+  technology and empirical methods in natural language processing} {Proceedings
+  of the conference on human language technology and empirical methods in
+  natural language processing}\ (\BPGS\ 347--354).
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

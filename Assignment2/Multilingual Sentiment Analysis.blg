@@ -1,0 +1,11 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Multilingual Sentiment Analysis.aux
+The style file: apacite.bst
+Illegal, another \bibstyle command---line 24 of file Multilingual Sentiment Analysis.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Database file #1: mybib2.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No journal in devitt2007sentiment
+Warning--No journal in mihalcea2007learning
+(There was 1 error message)
